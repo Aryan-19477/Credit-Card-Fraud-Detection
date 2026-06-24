@@ -192,7 +192,7 @@ Credit_Card_Fraud_Detection/
 ├── requirements.txt
 ├── README.md
 ├── model_comparison.png
-└── shap_summary (1).png
+└── shap_summary.png
 ```
 
 ---
@@ -200,10 +200,16 @@ Credit_Card_Fraud_Detection/
 ## 🚀 How to Run
 
 ### Install Dependencies
-pip install -r requirements.txt
-### Launch Dashboard
-streamlit run app.py
 
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Dashboard
+
+```bash
+streamlit run app.py
+```
 
 ---
 
