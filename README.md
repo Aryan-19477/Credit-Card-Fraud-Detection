@@ -212,6 +212,16 @@ streamlit run app.py
 ```
 
 ---
+## MLflow Integration
+
+This repository also includes an MLflow implementation (`Credit_Card_Fraud_Detection_MLflow.ipynb`) for experiment tracking. The implementation logs:
+
+- Model parameters
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Multiple experiment runs for Logistic Regression, Decision Tree, and Random Forest
 
 ## 👨‍💻 Author
 
